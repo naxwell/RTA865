@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NPC.unity
+    guid: d05e4fa160042ce489fec718677ae91b
+  - enabled: 1
+    path: Assets/Scenes/Cinemachine.unity
+    guid: c336ba3715b0d0b43b99d9649eb603a9
   m_configObjects: {}
